@@ -1,0 +1,6 @@
+Amanda Sachs;TP045833;UC1F1704IT;Software Engineering;Present;
+Bob Lee;TP036554;UC1F1704IT;Software Engineering;Absent;
+Karlie Kloss;TP045755;UC1F1704IT;Business IS;Present;
+Maria Amalina;TP043124;UC1F1704IT;Computer Science;Absent;
+Martin Skye;TP035543;UC1F1704IT;Business and IT;Present;
+Sarah Chua;TP037187;UC1F1704IT;Business IS;Absent;

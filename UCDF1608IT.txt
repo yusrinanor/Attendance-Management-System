@@ -1,0 +1,6 @@
+Carly Rae;TP033122;UCDF1608IT;Computer Science
+David Lee;TP034332;UCDF1608IT;Business with IT
+Jane Lim;TP037385;UCDF1608IT;Software Engineering
+Larry Navi;TP044876;UCDF1608IT;Computer Science
+Mark Rooban;TP043225;UCDF1608IT;Business with IT
+Maryam Chiad;TP042331;UCDF1608IT;Software Engineering

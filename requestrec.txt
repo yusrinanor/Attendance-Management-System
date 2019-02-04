@@ -1,0 +1,6 @@
+Amanda Bynes;TP33123;UC3F1706ACC;PSMOD;Medical Reason;Absent;
+Maria Amalina;TP043124;UC1F1704IT;MIS;Medical Reason, submitted MC;Absent;
+Martin Skye;TP035543;UC1F1704IT;PSMOD;Went back homecountry;Absent;
+Nicole Johnson;TP035529;UC2F1701IT;VBNET;Attended an event on 11th August;Absent;
+Yusrina;TP037385;UCDF1608IT;MIS;Temporary Leave
+;;;PSMOD;

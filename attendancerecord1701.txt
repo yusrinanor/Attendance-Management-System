@@ -1,0 +1,6 @@
+Andy Sachs;TP033215;UC2F1701IT;Computer Science;Present;
+Emily Blunt;TP033434;UC2F1701IT;Business IS;Absent;
+Lee Chiew Yie;TP034112;UC2F1701IT;Software Engineering;Absent;
+Lee Eng Wei;TP037712;UC2F1701IT;Software Engineering;Present;
+Nicole Johnson;TP035529;UC2F1701IT;Business and IT;Present;
+Vincent Lim;TP034553;UC2F1701IT;Computer Science;Absent;
